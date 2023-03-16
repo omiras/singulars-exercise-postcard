@@ -23,7 +23,8 @@ There is a video about this exercise, watch it if you are lost. But don't copy e
 
 ## BONUS 
 
-Use the [Lato Google Font](https://fonts.google.com/specimen/Lato) for all the document
+1. Use the [Lato Google Font](https://fonts.google.com/specimen/Lato) for all the document
+2. When we hover the button element, change its background color to something different,
 
 ## Pair Programming
 
