@@ -25,4 +25,12 @@ There is a video about this exercise, watch it if you are lost. But don't copy e
 
 Use the [Lato Google Font](https://fonts.google.com/specimen/Lato) for all the document
 
+## Pair Programming
+
+1. One of the student will start acting as a driver.
+2. Only that student must fork this repostory
+3. You must add your partner to be able to write in your repo - [Video](https://github.com/breatheco-de/exercise-collaborative-html-website/blob/master/iOBmU5zYqA.gif)
+4. You MUST make an scheme of the Website by drawing boxes before starting to code.
+5. After some time, you should change roles with your partner.
+
 
