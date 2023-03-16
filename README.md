@@ -1,31 +1,9 @@
-<!-- hide -->
 # The Postcard
-<!-- endhide -->
 Who does not like postcards? This is one of your first exercises (if not the first) and it's fun and relatively easy :)
 
 Let's create a postcard with HTML5 and CSS and then you can share it with your mom or with your other half, she/he is going to be proud! :)
 
-## 🌱  How to start this project?
-
-This project comes with the necessary files to start working, so you just need to clone its repository to start. You have two options for that:
-
-a) Most 4Geeks students should open this project with Gitpod by simply clicking on the link: https://gitpod.io#https://github.com/breatheco-de/exercise-postcard.git
-	
-+ If you do not have a Gitpod account yet, please register with your Github username at: https://www.gitpod.io/ 
-
-+ You can start your Github account at:  https://github.com/
- 
-b) Only if the method above is not possible, and you need to work locally in an IDE on your computer, you can clone the project by running the below command in the terminal of your IDE:
-
-```bash
-$ git clone  https://gitpod.io#https://github.com/breatheco-de/exercise-postcard.git 
-```
-
-The exercises will start and show the instructions automatically but if you encounter any issues you can try running them manually by typing in your command line the following:
-
-```bash
-$ learnpack start
-```
+Don't think too much about HTML semantics here, we want to focus on HTML structure and CSS classes.
 
 ## Instructions
 
@@ -43,13 +21,8 @@ Create the HTML and CSS needed to replicate [this exact same picture](https://ra
 
 There is a video about this exercise, watch it if you are lost. But don't copy everything, try to code some of your own.
 
-## Fundamentals
-This exercise covers the following fundamentals:
-1. Basic structure for every HTML5 website.  
-2. The *Link* tag to import CSS Rules.  
-3. Using google fonts.  
-3. Using the different selectors available in CSS.  
-4. Working with boxes: border, padding and margins.  
-5. Overflow.  
-6. Using a simple form  
+## BONUS 
+
+Use the [Lato Google Font](https://fonts.google.com/specimen/Lato) for all the document
+
 
